@@ -9,3 +9,4 @@ C:\Users\STONE\RiderProjects\SimpleAI\NetworkLibrary\obj\Debug\net9.0\NetworkLib
 C:\Users\STONE\RiderProjects\SimpleAI\NetworkLibrary\obj\Debug\net9.0\refint\NetworkLibrary.dll
 C:\Users\STONE\RiderProjects\SimpleAI\NetworkLibrary\obj\Debug\net9.0\NetworkLibrary.pdb
 C:\Users\STONE\RiderProjects\SimpleAI\NetworkLibrary\obj\Debug\net9.0\ref\NetworkLibrary.dll
+C:\Users\STONE\RiderProjects\SimpleAI\NetworkLibrary\obj\Debug\net9.0\NetworkLibrary.sourcelink.json

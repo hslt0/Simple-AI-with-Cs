@@ -16,3 +16,4 @@ C:\Users\STONE\RiderProjects\SimpleAI\MainApp\obj\Debug\net9.0\refint\MainApp.dl
 C:\Users\STONE\RiderProjects\SimpleAI\MainApp\obj\Debug\net9.0\MainApp.pdb
 C:\Users\STONE\RiderProjects\SimpleAI\MainApp\obj\Debug\net9.0\MainApp.genruntimeconfig.cache
 C:\Users\STONE\RiderProjects\SimpleAI\MainApp\obj\Debug\net9.0\ref\MainApp.dll
+C:\Users\STONE\RiderProjects\SimpleAI\MainApp\obj\Debug\net9.0\MainApp.sourcelink.json
