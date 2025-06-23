@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainApp", "MainApp\MainApp.csproj", "{FA75B48C-5B7C-4177-8D63-25E7B324EE83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkLibrary", "NetworkLibrary\NetworkLibrary.csproj", "{EB8559CE-D23A-4EE4-B316-32141BAB988B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA75B48C-5B7C-4177-8D63-25E7B324EE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA75B48C-5B7C-4177-8D63-25E7B324EE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA75B48C-5B7C-4177-8D63-25E7B324EE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA75B48C-5B7C-4177-8D63-25E7B324EE83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB8559CE-D23A-4EE4-B316-32141BAB988B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8559CE-D23A-4EE4-B316-32141BAB988B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8559CE-D23A-4EE4-B316-32141BAB988B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8559CE-D23A-4EE4-B316-32141BAB988B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
